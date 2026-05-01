@@ -1,0 +1,5 @@
+username,name,notes
+abc123,Alice Carter,normal row
+,Bob Davis,missing username
+   ,Charlie Evans,username is spaces only
+xyz789,Dana Foster,normal row
