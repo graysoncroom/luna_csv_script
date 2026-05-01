@@ -8,7 +8,9 @@ python -m pip install -r requirements.txt
 
 ## Running the script
 
-Ensure all csv files you want processed are in the `files_to_process` directory. Then run
+1. Remove all test csv files from the `files_to_process` directory
+1. Ensure all csv files you want processed are in the `files_to_process` directory.
+1. run
 ```bash
 python main.py
 ```
